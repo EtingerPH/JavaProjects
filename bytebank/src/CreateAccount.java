@@ -17,5 +17,6 @@ public class CreateAccount {
         account1.setFunds(200);
         account1.setPerson(chester);
 
+        System.out.println("Testing");
     }
 }
